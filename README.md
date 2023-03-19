@@ -29,7 +29,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](<a target="_blank" href="https://icons8.com/icon/EgOU93v1DHjU/android-studio">Android Studio</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
+  ![Android Studio]([<a target="_blank" href="https://icons8.com/icon/EgOU93v1DHjU/android-studio">Android Studio</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>](https://icons8.com/icon/EgOU93v1DHjU/android-studio))
 
 <br/>
 
